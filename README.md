@@ -1,4 +1,4 @@
-#MODELAGEM DE REAÇÕES QUÍMICAS ORGÂNICAS POR MEIO DO USO DE MACHINE LEARNING
+MODELAGEM DE REAÇÕES QUÍMICAS ORGÂNICAS POR MEIO DO USO DE MACHINE LEARNING
 
 Apresentação do trabalho (resumo expandido) referente a SECITEC 2023, no Instituto Federal de Educação, Ciencia e Tecnologia de Goiás - IFG, campus Goiania, em outubro de 2023.
 
