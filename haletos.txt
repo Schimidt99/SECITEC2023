@@ -1,0 +1,15 @@
+CCCl
+CCCCCl
+CCCCCCl
+ClCOc1ccccc1
+Cc1cccc(C)c1OCCl
+Cc1ccc(OCCCl)c(C)c1
+ClCOc1cccc2ccccc12
+Cc1cccc2cccc(OCCl)c12
+CC(O)CCl
+CC(=O)CCl
+CCC(C)CCl
+CC(CCl)CC=O
+O=[N+]([O-])c1ccccc1Cl
+CCC(C)(C)CCl
+CCC(C)Cl
