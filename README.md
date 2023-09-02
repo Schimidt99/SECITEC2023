@@ -11,6 +11,7 @@ ARQUIVOS (acessiveis acima):
 - alcanos.txt :lista de 15 moleculas de alcanos
 - reacoes_organicas_SECITEC2023.ipynb :Reações de substituição - halogenação de alcanos com Cloro
 - saida.txt :lista de 15 haletos clorados
+
   
 - haletos.txt :lista de 15 haletos clorados
 - reacoes_organicas2_SECITEC2023.ipynb :Reações de substituição nucleofílica - ataque do haleto pelo NaCN
