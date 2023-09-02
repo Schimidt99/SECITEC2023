@@ -1,0 +1,15 @@
+CCC#N
+CCCCC#N
+CCCCCC#N
+N#CCOc1ccccc1
+Cc1cccc(C)c1OCC#N
+Cc1ccc(OCCC#N)c(C)c1
+N#CCOc1cccc2ccccc12
+Cc1cccc2cccc(OCC#N)c12
+CC(O)CC#N
+CC(=O)CC#N
+CCC(C)CC#N
+CC(CC#N)CC=O
+N#Cc1ccccc1[N+](=O)[O-]
+CCC(C)(C)CC#N
+CCC(C)C#N
