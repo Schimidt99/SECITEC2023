@@ -28,7 +28,7 @@ FILES (accessible above):
 - alcanos.txt : list of 15 alkane molecules
 - reacoes_organicas_SECITEC2023.ipynb : Substitution reactions - halogenation of alkanes with chlorine
 - saida.txt : list of 15 chlorinated halide molecules
-- haletoss.txt : list of 15 chlorinated halide molecules
+- haletos.txt : list of 15 chlorinated halide molecules
 - reacoes_organicas2_SECITEC2023.ipynb : Nucleophilic substitution reactions - halide attack by NaCN
 - saida2.txt : list of 15 organic cyanide molecules
 
