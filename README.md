@@ -14,7 +14,8 @@ ARQUIVOS (acessiveis acima):
 - saida2.txt : lista de 15 moleculas cianetos orgânicos
 
 
-====================================================================================================
+
+============================================================================================
 
 MODELING ORGANIC CHEMICAL REACTIONS USING MACHINE LEARNING
 
