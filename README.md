@@ -14,5 +14,21 @@ ARQUIVOS (acessiveis acima):
 - saida2.txt : lista de 15 moleculas cianetos orgânicos
 
 
-  
+=======================================================================================================================
+=======================================================================================================================
+
+MODELING ORGANIC CHEMICAL REACTIONS USING MACHINE LEARNING
+
+-------------------------------------------------------------------------------------------------------------------
+
+In this work we present the results from the modeling of organic chemical reactions using the Marvin Sketch software in conjunction with the RDKit library based on the Python language. By constructing chemical reactions in the Marvin Sketch software, and exporting them in SMARTS format, they can be interpreted in algorithms written in Python, from the RDKit library, allowing the mathematical prediction of the reaction products.
+
+FILES (accessible above):
+
+- alcanos.txt : list of 15 alkane molecules
+- reacoes_organicas_SECITEC2023.ipynb : Substitution reactions - halogenation of alkanes with chlorine
+- saida.txt : list of 15 chlorinated halide molecules
+- haletoss.txt : list of 15 chlorinated halide molecules
+- reacoes_organicas2_SECITEC2023.ipynb : Nucleophilic substitution reactions - halide attack by NaCN
+- saida2.txt : list of 15 organic cyanide molecules
 
